@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cycletls": "^1.0.21",
+    "http-proxy": "^1.18.1"
+  }
+}
